@@ -1,16 +1,23 @@
-### Hi there 👋
+### Oii! Me chamo Hellen e desenvolvo códigos próprios em Python e Java!
 
-<!--
-**Hellenilda/Hellenilda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Atualmente utilizo: Python, Java e JavaScript
+- Ela/dela
+- Curiosidade: Sou desenhista digital. 
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/Hellenilda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hellenilda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellenilda&layout=compact&langs_count=16&theme=tokyonight" />
+</div>
+
+##
+
+<div align="center"> 
+  <img align="center" alt="Hellenilda-Py" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Hellenilda-Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Hellenilda-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
+
+##
