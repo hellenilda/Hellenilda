@@ -1,8 +1,8 @@
-### Oii! Me chamo Hellen e desenvolvo códigos próprios em Python e Java!
+### Oii! Me chamo Hellen e desenvolvo códigos próprios!
 
 - Atualmente utilizo: Python, Java e JavaScript
 - Ela/dela
-- Curiosidade: Sou desenhista digital. 
+- Curiosidade engraçada: Apesar de preferir back-end, eu me saio melhor no front-end 😅 
 
 ##
 
