@@ -1,6 +1,6 @@
 ### Oii! Me chamo Hellen e desenvolvo códigos próprios!
 
-- Atualmente utilizo: Python, Java e JavaScript e um pouco de SQL
+- Atualmente utilizo: Python, Java, JavaScript e um pouco de SQL
 - Prefiro back-end, mas me saio melhor no front-end 🤷‍♀️
 - Ela/dela 
 
