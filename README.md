@@ -9,6 +9,7 @@
 <div>
   <a href="https://github.com/Hellenilda">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hellenilda&theme=dracula&line_height=40&hide=css"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hellenilad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
