@@ -2,6 +2,7 @@
 - Autodidata em desenhos digitais;
 - Estagiária do curso de TI no IFPB;
 - Prefiro back-end, mas me saio melhor no front-end 🤷‍♀️
+- Café é vida ☕️
 
 ##
 ### Linguagens que utilizo:
