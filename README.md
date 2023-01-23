@@ -20,7 +20,9 @@
 <div align="center">
   <a href="https://github.com/Hellenilda">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hellenilda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hellenilda&theme=dracula&line_height=40&hide=css"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hellenilda&theme=dracula&line_height=40"/>
+<!--     versão anterior: -->
+<!--     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hellenilda&theme=dracula&line_height=40&hide=css"/> -->
   </a>
 </div>
 
