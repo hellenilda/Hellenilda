@@ -1,7 +1,6 @@
 ## Oii! Me chamo Hellen e desenvolvo códigos próprios!
 - Autodidata em desenhos digitais;
 - Estagiária do curso de TI no IFPB;
-- Prefiro back-end
 - Café é vida ☕️
 
 ##
