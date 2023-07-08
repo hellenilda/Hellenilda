@@ -1,4 +1,5 @@
-## Oii! Me chamo Hellen e desenvolvo códigos próprios!
+## Oii, me chamo Hellen! Bem vindo(a) ao meu Github ✨
+- Futura ADS 📌
 - Autodidata em desenhos digitais;
 - Estagiária do curso de TI no IFPB;
 - Café é vida ☕️
