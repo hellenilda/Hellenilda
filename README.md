@@ -1,7 +1,7 @@
 ## Oii, me chamo Hellen! Bem vindo(a) ao meu Github ✨
-- Futura estudante de ADS 📌
-- Autodidata em desenhos digitais;
-- Concluinte do curso técnico em TI no IFPB;
+- Concluinte do curso técnico em TI no IFPB
+- Graduando ADS no IFPB 📚
+- Autodidata em desenhos digitais
 - Café é vida ☕️
 
 ##
