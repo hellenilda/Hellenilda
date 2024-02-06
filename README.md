@@ -1,5 +1,5 @@
 ## Oii, me chamo Hellen! Bem vindo(a) ao meu Github ✨
-- Concluinte do curso técnico em TI no IFPB
+- Concluinte do Curso Técnico em TI no IFPB
 - Graduando ADS no IFPB 📚
 - Autodidata em desenhos digitais
 - Café é vida ☕️
