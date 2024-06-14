@@ -1,6 +1,7 @@
 ## Oii, me chamo Hellen! Bem vindo(a) ao meu Github ✨
-- Concluinte do Curso Técnico em TI no IFPB
-- Graduando ADS no IFPB 📚
+- Técnica em Informática - IFPB
+- Egressa do LaISER - IFPB
+- ADS - IFPB (1/6) 📚
 - Autodidata em desenhos digitais
 - Café é vida ☕️
 
@@ -19,7 +20,7 @@
 
 ##
 
-<div align="center" id"IDEs+Afins">
+<div align="center" id="IDEs+Afins">
   <img align="center" alt="Hellenilda-VScode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Hellenilda-VisualStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img  align="center" alt="Hellenilda-Blender" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
@@ -27,6 +28,7 @@
   <img align="center" alt="Hellenilda-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Hellenilda-Putty" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" />
   <img align="center" alt="Hellenilda-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
+  <img align="center" alt="Hellenilda-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 </div>
 
 ##
