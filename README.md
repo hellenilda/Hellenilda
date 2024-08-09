@@ -5,33 +5,26 @@
 - Autodidata em desenhos digitais
 - Café é vida ☕️
 
-##
-
-<div align="center" id="linguagens"><br>
-  <img align="center" alt="Hellenilda-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Hellenilda-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Hellenilda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Hellenilda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Hellenilda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Hellenilda-C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Hellenilda-MySQL" height="50" width="60" src="https://simpleicons.org/icons/mysql.svg" />
-  <img align="center" alt"Hellenilda-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<div id="redesSociais"> 
+  <a href="https://www.instagram.com/hellenilda.vbs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hellen-lima-7098b8263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ##
 
-<div align="center" id="IDEs+Afins">
-  <img align="center" alt="Hellenilda-VScode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Hellenilda-VisualStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img  align="center" alt="Hellenilda-Blender" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-  <img align="center" alt="Hellenilda-Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img align="center" alt="Hellenilda-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Hellenilda-Putty" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" />
-  <img align="center" alt="Hellenilda-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
-  <img align="center" alt="Hellenilda-Unity" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-  <img align="center" alt="Hellenilda-Godot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
-  <img align="center" alt="Hellenilda-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-</div>
+<p align="center" id="linguagens">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,cs,mysql,react" />
+  </a>
+</p>
+
+##
+
+<p align="center" id="IDEs+Afins">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,blender,androidstudio,spring,linux,unity,godot,nodejs" />
+  </a>
+</p>
 
 ##
 
@@ -42,12 +35,4 @@
     <hr>
 <!--     <a href="http://www.github.com/hellenilda"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hellenilda&bg_color=282a36&color=ffffff&line=ff6e96&point=ffffff&area_color=171717&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
   </a>
-</div>
-
-##
-
-<div id="redesSociais"> 
-  <a href="https://www.instagram.com/hellenilda.vbs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hellen-lima-7098b8263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
 </div>
