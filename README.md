@@ -13,7 +13,7 @@
 ##
 
 <p align="center" id="linguagens">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=python,java,html,css,js,cs,mysql,react" />
   </a>
 </p>
@@ -21,7 +21,7 @@
 ##
 
 <p align="center" id="IDEs+Afins">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,blender,androidstudio,spring,linux,unity,godot,nodejs,aws" />
   </a>
 </p>
