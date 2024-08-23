@@ -22,7 +22,7 @@
 
 <p align="center" id="IDEs+Afins">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,blender,androidstudio,spring,linux,unity,godot,nodejs,aws" />
+    <img src="https://skillicons.dev/icons?i=vscode,blender,androidstudio,spring,linux,unity,godot,nodejs,aws" />
   </a>
 </p>
 
