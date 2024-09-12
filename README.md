@@ -19,7 +19,7 @@
 
 <p align="center" id="linguagens">
   <a href="https://github.com/tandpfun/skill-icons#readme">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,cs,mysql,react" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,cs,mysql" />
   </a>
 </p>
 
