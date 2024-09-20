@@ -27,7 +27,7 @@
 
 <p align="center" id="IDEs+Afins">
   <a href="https://github.com/tandpfun/skill-icons#readme">
-    <img src="https://skillicons.dev/icons?i=vscode,blender,androidstudio,spring,linux,unity,godot,nodejs,aws" />
+    <img src="https://skillicons.dev/icons?i=vscode,blender,androidstudio,spring,linux,unity,godot,nodejs,aws,mongodb" />
   </a>
 </p>
 
