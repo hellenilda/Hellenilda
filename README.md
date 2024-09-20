@@ -1,9 +1,10 @@
-## Oii, me chamo Hellen! Bem vindo(a) ao meu Github ✨
-- Técnica em Informática - IFPB
-- Egressa do LaISER - IFPB
+# Oii, me chamo Hellen! Bem vindo(a) ao meu Github 🌸✨
+## ️Sobre mim
+- Técnica em Informática - IFPB 👩‍💻
+- Egressa do LaISER - IFPB 💡
 - ADS - IFPB (1/6) 📚
-- Estagiária da Compass.UOL
-- Autodidata em desenhos digitais
+- Estagiária da Compass.UOL 🧡
+- Autodidata em desenhos digitais 🚀
 - Café é vida ☕️
 
 <div id="redesSociais"> 
@@ -15,27 +16,30 @@
   </a>
 </div>
 
-##
+---
+
+## Linguagens e Ferramentas
 
 <p align="center" id="linguagens">
   <a href="https://github.com/tandpfun/skill-icons#readme">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,cs,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,cs,mysql" alt="Linguagens de Programação" />
   </a>
 </p>
 
-##
-
-<p align="center" id="IDEs+Afins">
+<p align="center" id="ides-afins">
   <a href="https://github.com/tandpfun/skill-icons#readme">
-    <img src="https://skillicons.dev/icons?i=vscode,blender,androidstudio,spring,linux,unity,godot,nodejs,aws,mongodb" />
+    <img src="https://skillicons.dev/icons?i=vscode,blender,androidstudio,spring,linux,unity,godot,nodejs,aws,mongodb" alt="IDEs e Ferramentas" />
   </a>
 </p>
 
-##
+---
 
-<div align="center" id="informacoesDoPerfil">
+
+## Status
+
+<div align="center" id="informacoes-do-perfil">
   <a href="https://github.com/Hellenilda">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hellenilda&theme=dracula&line_height=40"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hellenilda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hellenilda&theme=radical&line_height=40" alt="Linguagens Mais Usadas"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hellenilda&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>  
   </a>
 </div>
