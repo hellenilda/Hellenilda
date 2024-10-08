@@ -22,7 +22,7 @@
 
 <p align="center" id="linguagens">
   <a href="https://github.com/tandpfun/skill-icons#readme">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,cs,mysql" alt="Linguagens de Programação" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,cs,mysql,flutter" alt="Linguagens de Programação" />
   </a>
 </p>
 
