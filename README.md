@@ -18,7 +18,7 @@
 
 ---
 
-## Linguagens e Ferramentas
+## Tecnologias utilizadas
 
 <p align="center" id="linguagens">
   <a href="https://github.com/tandpfun/skill-icons#readme">
