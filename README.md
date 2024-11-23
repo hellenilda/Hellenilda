@@ -22,13 +22,13 @@
 
 <p align="center" id="linguagens">
   <a href="https://github.com/tandpfun/skill-icons#readme">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,cs,mysql,flutter" alt="Linguagens de Programação" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,cs,mysql" alt="Linguagens de Programação" />
   </a>
 </p>
 
 <p align="center" id="ides-afins">
   <a href="https://github.com/tandpfun/skill-icons#readme">
-    <img src="https://skillicons.dev/icons?i=vscode,blender,androidstudio,spring,linux,unity,godot,nodejs,aws,mongodb" alt="IDEs e Ferramentas" />
+    <img src="https://skillicons.dev/icons?i=vscode,blender,androidstudio,spring,linux,unity,godot,nodejs,aws" alt="IDEs e Ferramentas" />
   </a>
 </p>
 
