@@ -2,7 +2,7 @@
 ## ️Sobre mim
 - Técnica em Informática - IFPB 👩‍💻
 - Egressa do LaISER - IFPB 💡
-- ADS - IFPB (2/6) 📚
+- ADS - IFPB (3/6) 📚
 - Estágio concluído na Compass.UOL 🧡
 - Autodidata em desenhos digitais 🚀
 - Café é vida ☕️
