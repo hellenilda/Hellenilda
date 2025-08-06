@@ -12,12 +12,12 @@
 
 ## Minha stack
 
-<img src="https://skillicons.dev/icons?i=python,spring,flutter,dart,html,css,js,bootstrap,git,github,postgres&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,spring,flutter,dart,react,git,github,postgres&theme=dark"/>
 
 
 ## Outras competências
 
-<img src="https://skillicons.dev/icons?i=linux,unity,godot,nodejs,aws&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,linux,godot,aws&theme=dark"/>
 
 ---
 
