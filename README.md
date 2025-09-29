@@ -10,12 +10,20 @@
 
 ## Minha stack
 
-<img src="https://skillicons.dev/icons?i=python,spring,flutter,git,github,postgres&theme=dark"/>
+### Back-end
+<img src="https://skillicons.dev/icons?i=java,spring,dart&theme=dark"/>
 
+### Front-end
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,flutter&theme=dark"/>
 
-## Outras competências
+### DBs
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,linux,godot,aws&theme=dark"/>
+### Versionamento
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
+
+### Outras competências
+<img src="https://skillicons.dev/icons?i=python,linux,godot,aws&theme=dark"/>
 
 ---
 
@@ -24,7 +32,7 @@
 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hellenilda&show_icons=true&count_private=true&title_color=ff7abd&icon_color=cf448a&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
   
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellenilda&layout=compact&title_color=ff7abd&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellenilda&layout=compact&title_color=ff7abd&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
 
 ---
