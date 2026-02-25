@@ -3,7 +3,7 @@
 ## ️Sobre mim
 - Técnica em Informática - IFPB 👩‍💻
 - ADS - IFPB (4/6) 📚
-- Trainee (Dev Android) na Compass.UOL 🧡
+- Dev Android na Compass.UOL 🧡
 - Café é vida ☕️
 
 ---
