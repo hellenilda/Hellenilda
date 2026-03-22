@@ -20,16 +20,13 @@
 ## Minha stack
 
 ### Back-end
-<img src="https://skillicons.dev/icons?i=java,spring,dart&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,dart,python&theme=dark"/>
 
 ### Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,flutter&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,js,bootstrap,flutter&theme=dark"/>
 
 ### DBs
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark"/>
 
-### Versionamento
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
-
-### Outras competências
-<img src="https://skillicons.dev/icons?i=python,linux,godot,aws&theme=dark"/>
+### Devops e Infra
+<img src="https://skillicons.dev/icons?i=git,github,linux,aws,docker,terraform,kafka&theme=dark"/>
