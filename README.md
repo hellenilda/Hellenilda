@@ -13,6 +13,9 @@
   <a href="mailto:hellen95limaaraujo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
+  <a href="https://portfolio-hellenilda.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logoColor=white" target="_blank">
+  </a>
 </div>
 
 ---
