@@ -31,5 +31,5 @@
 ### DBs
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark"/>
 
-### Devops e Infra
+### Outros
 <img src="https://skillicons.dev/icons?i=git,github,linux,aws,docker,terraform,kafka&theme=dark"/>
