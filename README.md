@@ -2,7 +2,7 @@
 
 ## ️Sobre mim
 - Técnica em Informática - IFPB 👩‍💻
-- ADS - IFPB (4/6) 📚
+- ADS | IFPB 📚
 - Desenvolvedora na Compass.UOL 🧡
 - Café é vida ☕️
 
