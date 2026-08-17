@@ -1,10 +1,9 @@
-# Oii, me chamo Hellen! ✨
+# Bem vindo(a) ao meu Github! ✨
 
 ## ️Sobre mim
-- Técnica em Informática - IFPB 👩‍💻
 - ADS | IFPB 📚
+- Técnica em Informática | IFPB 👩‍💻
 - Desenvolvedora na Compass.UOL 🧡
-- Café é vida ☕️
 
 <div id="redesSociais"> 
   <a href="https://www.linkedin.com/in/hellenilda/" target="_blank">
@@ -23,13 +22,13 @@
 ## Minha stack
 
 ### Back-end
-<img src="https://skillicons.dev/icons?i=java,spring,dart,python&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs&theme=dark"/>
 
 ### Front-end
-<img src="https://skillicons.dev/icons?i=react,js,bootstrap,flutter&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,js,bootstrap&theme=dark"/>
 
 ### DBs
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark"/>
 
 ### Outros
-<img src="https://skillicons.dev/icons?i=git,github,linux,aws,docker,terraform,kafka&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,python,aws,docker,terraform,kafka&theme=dark"/>
