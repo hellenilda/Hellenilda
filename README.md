@@ -31,4 +31,4 @@
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark"/>
 
 ### Outros
-<img src="https://skillicons.dev/icons?i=git,github,linux,python,aws,docker,terraform,kafka&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma,python,aws,docker,terraform,kafka&theme=dark"/>
