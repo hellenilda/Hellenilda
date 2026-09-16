@@ -1,9 +1,9 @@
-# Bem vindo(a) ao meu Github! ✨
+# Welcome to my Github! ✨
 
-## ️Sobre mim
-- ADS | IFPB 📚
-- Técnica em Informática | IFPB 👩‍💻
-- Desenvolvedora na Compass.UOL 🧡
+## ️About me
+- Systems Analysis and Development | IFPB 📚
+- IT Technician | IFPB 👩‍💻
+- Automation Developer at Compass.UOL (AIR) 🧡
 
 <div id="redesSociais"> 
   <a href="https://www.linkedin.com/in/hellenilda/" target="_blank">
@@ -19,8 +19,7 @@
 
 ---
 
-## Minha stack
-
+## Skills
 ### Back-end
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs&theme=dark"/>
 
@@ -30,5 +29,5 @@
 ### DBs
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark"/>
 
-### Outros
+### Others
 <img src="https://skillicons.dev/icons?i=git,github,linux,figma,python,aws,docker,terraform,kafka&theme=dark"/>
