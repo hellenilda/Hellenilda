@@ -22,9 +22,19 @@
 ## Skills
 ### Back-end
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs&theme=dark"/>
+<!-- <p>
+  <img src="https://img.shields.io/badge/Java-F58219?style=for-the-badge&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6AB345?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.JS-83CD29?style=for-the-badge&logo=nodejs" alt="Node" />
+</p> -->
 
 ### Front-end
 <img src="https://skillicons.dev/icons?i=react,js,bootstrap&theme=dark"/>
+<!-- <p>
+  <img src="https://img.shields.io/badge/Java-F58219?style=for-the-badge&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6AB345?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.JS-83CD29?style=for-the-badge&logo=nodejs" alt="Node" />
+</p> -->
 
 ### DBs
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark"/>
